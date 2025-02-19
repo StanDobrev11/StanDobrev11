@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @StanDobrev11
 
 - 👀 I’m interested in **[Deep Reinforcement Learning (DRL), Machine Learning (ML), and their applications in the maritime industry, as well as Python, Django, web development, and deployment.]**
-- 🌱 I’m currently learning **[Deep Learning]**
+- 🌱 I’m currently learning **[HF AI Agents Course]**
 - 💞️ I’m looking to collaborate on **[all types of project involving Python, Django and Data Science]**
 - 📫 How to reach me: **[dobrev81@gmail.com]**
 - 😄 Pronouns: **[call me Captain]**
